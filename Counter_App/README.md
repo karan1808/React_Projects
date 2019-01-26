@@ -1,3 +1,6 @@
+//Group node_modules to run the web the focus is on react jsx files
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
